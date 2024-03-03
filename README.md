@@ -2,3 +2,5 @@
 This is the repository hosted on GitHub servers and being used for academic purpose.
 
 This is the first change I am making using the GitHub UI.
+
+This is the first line I am adding using the Notepad.
